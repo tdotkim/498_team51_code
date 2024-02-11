@@ -8,7 +8,7 @@
 
 *./modeling*: contains a folder for supervised and another for unsupervised
 
-*./chatbot*: contains chatbot information
+
 
 ## GCP Links
 
